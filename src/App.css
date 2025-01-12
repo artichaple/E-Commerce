@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height: 40px;
+    color: black;
+    background-color: aqua;
+   
+   
+   
+    }
+.navbar-link{
+    
+        list-style: none;
+        display: flex;
+        gap: 1.5rem;
+        padding: 25px;
+    
+}
+.navbar-logo{
+    padding: px;
+}
+.searchbox{
+    margin-right: 20px;
+     height: 40px;
+      border-radius: 20px;
+      width: 50vh;
+      padding: 16px;
+      border: none;
+
+    
+
+}
+  

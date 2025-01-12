@@ -1,0 +1,32 @@
+
+
+
+
+
+.cards-container {
+    padding: 6vh 8vh;
+}
+
+.card-heading h2{
+    text-align:center;
+}
+.card-item{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+}
+
+.view-all-btn button {
+    width: 160px;
+    height: 45px;
+    margin-top: 30px;
+    padding: 16px 54px 16px 54px;
+    gap: 12px;
+    border-radius: 62px;
+    border: 1px;
+   display: flex; 
+        justify-content: center;   
+
+}
+
